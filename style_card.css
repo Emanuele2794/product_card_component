@@ -1,11 +1,7 @@
 .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
 
-    :root {
-        --clr-primary-400: hsl(158, 36%, 37%);
-        --clr-secondary-200: hsl(30, 38%, 92%);
-    }
-/*
+    /*
   1. Use a more-intuitive box-sizing model.
 */
 *, *::before, *::after {
@@ -58,9 +54,4 @@
     isolation: isolate;
   }
 
-  body {
-    font-family: 'Montserrat', serif;
-    font-weight: 700;
-    background-color: hsl(30, 38%, 92%);
-  }
   
